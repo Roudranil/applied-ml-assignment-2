@@ -1,0 +1,15 @@
+artifact_uri: file:///data/cmi/notes/sem-4/applied-ml/assignments/assignment-2/src/mlruns/0/21d335455d744cbb9c03cd6590db785a/artifacts
+end_time: 1708426484568
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 21d335455d744cbb9c03cd6590db785a
+run_name: DecisionTreeClassifier
+run_uuid: 21d335455d744cbb9c03cd6590db785a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708426484502
+status: 4
+tags: []
+user_id: rudy

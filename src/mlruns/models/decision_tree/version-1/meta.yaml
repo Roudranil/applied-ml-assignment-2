@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1708426501523
+current_stage: None
+description: null
+last_updated_timestamp: 1708426501523
+name: decision_tree
+run_id: 099a50c50b3d4ecf96f8c7b80b8a83fa
+run_link: null
+source: runs:/decision_tree/099a50c50b3d4ecf96f8c7b80b8a83fa
+status: READY
+status_message: null
+storage_location: runs:/decision_tree/099a50c50b3d4ecf96f8c7b80b8a83fa
+user_id: null
+version: 1

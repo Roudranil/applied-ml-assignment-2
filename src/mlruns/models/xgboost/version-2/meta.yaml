@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1708426575590
+current_stage: None
+description: null
+last_updated_timestamp: 1708426575590
+name: xgboost
+run_id: 206747fae4f5406a840b8377430e6645
+run_link: null
+source: runs:/xgboost/206747fae4f5406a840b8377430e6645
+status: READY
+status_message: null
+storage_location: runs:/xgboost/206747fae4f5406a840b8377430e6645
+user_id: null
+version: 2

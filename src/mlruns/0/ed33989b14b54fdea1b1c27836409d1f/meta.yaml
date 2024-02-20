@@ -1,0 +1,15 @@
+artifact_uri: file:///data/cmi/notes/sem-4/applied-ml/assignments/assignment-2/src/mlruns/0/ed33989b14b54fdea1b1c27836409d1f/artifacts
+end_time: 1708426549005
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ed33989b14b54fdea1b1c27836409d1f
+run_name: decision_tree
+run_uuid: ed33989b14b54fdea1b1c27836409d1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708426547015
+status: 3
+tags: []
+user_id: rudy

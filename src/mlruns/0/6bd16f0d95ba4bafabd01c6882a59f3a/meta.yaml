@@ -1,0 +1,15 @@
+artifact_uri: file:///data/cmi/notes/sem-4/applied-ml/assignments/assignment-2/src/mlruns/0/6bd16f0d95ba4bafabd01c6882a59f3a/artifacts
+end_time: 1708426390633
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6bd16f0d95ba4bafabd01c6882a59f3a
+run_name: logistic_regression
+run_uuid: 6bd16f0d95ba4bafabd01c6882a59f3a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1708426387638
+status: 3
+tags: []
+user_id: rudy
